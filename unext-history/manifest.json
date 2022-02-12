@@ -3,7 +3,7 @@
   "manifest_version": 2,
   "name": "UNEXT-LiveHistory",
   "version": "1.0",
-  "homepage_url": "https://github.com/saba-0013/",
+  "homepage_url": "https://github.com/saba-0013/unext-HistoryRT-ext",
   "author": "saba-0013",
   "icons": {
     "48": "icons/tmp.png"
