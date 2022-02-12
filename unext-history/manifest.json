@@ -1,0 +1,17 @@
+{
+  "description": "Popup the current program's info about 'U-NEXT realtime HISTORY CH.'. See https://help.unext.jp/channels/history. We can check the program's info about HISTORY CH manually from here 'https://help.unext.jp/channels/history/program'",
+  "manifest_version": 2,
+  "name": "UNEXT-LiveHistory",
+  "version": "1.0",
+  "homepage_url": "https://github.com/saba-0013/",
+  "author": "saba-0013",
+  "icons": {
+    "48": "icons/tmp.png"
+  },
+  "browser_action": {
+    "default_icon": "icons/tmp.png",
+    "default_title": "HistoryLiveInfo",
+    "default_popup": "popup/popup.html"
+  },
+  "content_security_policy": "default-src 'self'"
+}
