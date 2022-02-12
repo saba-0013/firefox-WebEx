@@ -12,6 +12,5 @@
     "default_icon": "icons/tmp.png",
     "default_title": "HistoryLiveInfo",
     "default_popup": "popup/popup.html"
-  },
-  "content_security_policy": "default-src 'self'"
+  }
 }
